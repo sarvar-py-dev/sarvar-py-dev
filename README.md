@@ -6,11 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvar-py-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sarvar-py-dev" /> </p>
 
-- 🔭 I’m currently working on Telegram bots
+- 🔭 I’m currently learning on Telegram bots
 
-- 🌱 I’m currently learning **Django, PostgresSQL**
-
-- 💬 Ask me about **Telegram bot**
+- 🌱 I want to learn **Django, PostgresSQL**
 
 - ⚡ Fun fact **I am funny**
 
