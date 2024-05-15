@@ -41,5 +41,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarvar-py-dev&show_icons=true&locale=en" alt="sarvar-py-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvar-py-dev&" alt="sarvar-py-dev" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvar-py-dev&" alt="sarvar-py-dev" /><span>    </span>
+<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvar-py-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+</p>
