@@ -44,3 +44,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvar-py-dev&" alt="sarvar-py-dev" /><span>    </span>
 <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvar-py-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
+
+## 👁️ Number of visits:
+<p align="center">
+   <img src="https://profile-counter.glitch.me/{sarvar-py-dev}/count.svg"/>
+</p>
