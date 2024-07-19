@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently learning on API
 
-- 💻 I can build Telegram bots
+- 💻 I can build Telegram bots, Django Projects
 
 - 🌱 I want to learn **blockchain**
 
