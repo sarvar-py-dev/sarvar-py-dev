@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvar-py-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sarvar-py-dev" /> </p>
 
-- 🔭 I’m currently learning on DRF (API)
+[//]: # (- 🔭 I’m currently learning on DRF &#40;API&#41;)
 
-- 💻 I can build Telegram bots, Django Projects
+- 💻 I can do Telegram bots, Django, DRF
 
 - 🌱 I want to learn **blockchain**
 
