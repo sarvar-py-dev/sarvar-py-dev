@@ -53,8 +53,9 @@
 <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvar-py-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
-<p align="left"> <a href="https://github.com/sarvar-py-dev/sarvar-py-dev"><img src="https://github-profile-trophy.vercel.app/?username=sarvar-py-dev" alt="sarvar-py-dev" /></a> </p>
-
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sarvar-py-dev&theme=radical">
+   
 ## 👁️ Number of visits:
 <p align="center">
    <img src="https://profile-counter.glitch.me/{sarvar-py-dev}/count.svg"/>
