@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvar-py-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sarvar-py-dev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvar-devx&label=Profile%20views&color=0e75b6&style=flat" alt="sarvar-devx" /> </p>
 
 [//]: # (- 🔭 I’m currently learning on DRF &#40;API&#41;)
 
@@ -25,8 +25,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/sarvarbek-davranbekov-3272212a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarvarbek-davranbekov-3272212a5" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100081788845272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100081788845272" height="30" width="40" /></a>
-<a href="https://instagram.com/sarvar_py_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarvar_py_dev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sarvar_py_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarvar_py_dev" height="30" width="40" /></a>
+<a href="https://instagram.com/sarvar_devx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarvar_devx" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sarvar_devx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarvar_devx" height="30" width="40" /></a>
 </p>
 
 
@@ -41,22 +41,22 @@
 
 </br><h1 tabindex="-1" style="font-size: 2em">📊 LeetCode Stats:</h1>
 
-<a href="https://leetcode.com/u/sarvar_py_dev/">![Leetcode Stats](https://leetcard.jacoblin.cool/sarvar_py_dev?theme=dark)</a>
+<a href="https://leetcode.com/u/sarvar_devx/">![Leetcode Stats](https://leetcard.jacoblin.cool/sarvar_devx?theme=dark)</a>
 
 </br><h1 tabindex="-1" align="left">📊 GitHub Stats:</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvar-py-dev&show_icons=true&locale=en&layout=compact" alt="sarvar-py-dev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvar-devx&show_icons=true&locale=en&layout=compact" alt="sarvar-devx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarvar-py-dev&show_icons=true&locale=en" alt="sarvar-py-dev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarvar-devx&show_icons=true&locale=en" alt="sarvar-devx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvar-py-dev&" alt="sarvar-py-dev" /><span>    </span>
-<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvar-py-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvar-devx&" alt="sarvar-devx" /><span>    </span>
+<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvar-devx&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sarvar-py-dev&theme=radical">
+<img src="https://github-profile-trophy.vercel.app/?username=sarvar-devx&theme=radical">
 </p>
 ## 👁️ Number of visits:
 <p align="center">
-   <img src="https://profile-counter.glitch.me/{sarvar-py-dev}/count.svg"/>
+   <img src="https://profile-counter.glitch.me/{sarvar-devx}/count.svg"/>
 </p>
